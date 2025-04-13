@@ -18,6 +18,7 @@
         <select id="topic" name="topic" onchange="toggleExtraField(this.value)">
             <option value="support">Support</option>
             <option value="sales">Sales</option>
+            <option value="advertisement">Advertisement</option>
             <option value="other">Other</option>
         </select>
 
