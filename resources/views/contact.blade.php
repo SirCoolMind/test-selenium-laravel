@@ -19,6 +19,7 @@
             <option value="support">Support</option>
             <option value="sales">Sales</option>
             <option value="advertisement">Advertisement</option>
+            <option value="example">Example</option>
         </select>
 
         <div id="extra" style="display:none;">
