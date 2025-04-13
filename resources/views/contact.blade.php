@@ -20,6 +20,7 @@
             <option value="sales">Sales</option>
             <option value="advertisement">Advertisement</option>
             <option value="example">Example</option>
+            <option value="other">Other</option>
         </select>
 
         <div id="extra" style="display:none;">
